@@ -16,8 +16,6 @@ CSS-It explains what CSS is and how it's relationship with HTML is important. It
 Javascript - For starters it explains what Javascript is and how it applies to web development. You will read about all f the important terms and functions that can be used in Javascript. You will learn all of the basic terminology for getting started and more relating to the Javascript language.
 Git - You willlearn about Git as a program and the basic on how to apply it as a web developer. You will learn keywords that help you navigate the terminal. You will also lear the steps on creating branches and applying it to a project on Github.
 
-![alt text](assets/images/screenshot.png)
-
 ## Credits
 
 N/A
