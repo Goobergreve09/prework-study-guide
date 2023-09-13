@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Description
 
 My motivation for the project was to learn the basics of HTML, CSS, and Javascript. Using these 3 I was able to create a website based on content to study. This webpage will help in the future when I need to find information that will help me, and I will also keep updating the websie as my skills progress. I will no longer have multiple pages open whether in a physical notebook or word documents, it is an easy to navigate webpage with everything on it. By creating this webpage I have learned the basics of web development. I also learned how to navigate git hub and apply changes to a project via a branch. This will help when working with multiple people other than myself. Before creating this webpage I did not know much about coding, but now I have a good start for beginning the course.
@@ -29,4 +29,4 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 =======
 
->>>>>>> c2092c822ee408be68e84b8c2c13bbfe4a031511
+
